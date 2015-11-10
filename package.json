@@ -1,6 +1,6 @@
 {
   "name": "slyn-data-binder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Data binding module",
   "main": "lib/index.js",
   "keywords": [
@@ -17,7 +17,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "underscore": "^1.8.3"
+    "underscore": "~1.8.3",
+    "jquery": "~2.1.4"
   },
   "bugs": {
     "url": "https://github.com/malikov/slyn-data-binder/issues"
